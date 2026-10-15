@@ -1,0 +1,48 @@
+body{
+    background-image: url(/img/fotodefundo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 1px burlywood;
+    margin: auto;
+}
+
+#inicio{
+    color: beige;
+    text-align: center;
+    margin: auto;
+}
+
+h2{
+    font-size: 30px;
+    color: burlywood;
+    text-align: left;
+}
+
+#comum{
+    color: beige;
+    text-align: left;
+    width: 50%;
+}
+
+a{
+    color: chocolate;
+}
+
+a:visited{
+    color: navajowhite;
+}
+
+a:hover{
+    color: darkgoldenrod;
+}
+
+a:active{
+    color: brown;
+}
